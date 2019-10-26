@@ -1,6 +1,6 @@
 i = True
 while i:
-    alpha = ' abcdefghijklmnopqrstuvwxyzQWERTYUIOPASDFGHJKLZXCVBNM0123456789'
+    alpha = ' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZабвгдеєжзиіїйклмнопрстуфхцчшщьюяАБВГДЕЄЖЗИІЇКЛМНОПРСТУФХЦЧШЩЬЮЯ0123456789'
     step = 2
     step1 = 1
     text = input("Please write your text ").strip()
